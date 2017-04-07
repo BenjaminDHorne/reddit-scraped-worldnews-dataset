@@ -16,6 +16,16 @@ API collection originally done by Jason Baumgartner of
 pushshift.io. Our newly collected data set of news articles
 with corresponding reddit engagement statistics is found in this repository.
 
-If you use this data set, please cite:
+Copyright (c) 2016, Benjamin D. Horne, Dorit Nevo, Jesse Freitas, Heng Ji & Sibel Adali
+
+All rights reserved.
+
+Redistribution and use in any form, with or without modification, are permitted provided that the above copyright notice, this list of conditions and the following disclaimer are retained.
+
+Any publication resulting from the use of this work must cite the following publication::
 
 Horne, Benjamin D., and Sibel Adali. "The Impact of Crowds on News Engagement: A Reddit Case Study" The 2nd International Workshop on News and Public Opinion at ICWSM (2017).
+
+THIS DATASET IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
