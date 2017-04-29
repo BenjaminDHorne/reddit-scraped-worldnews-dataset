@@ -16,6 +16,8 @@ API collection originally done by Jason Baumgartner of
 pushshift.io. Our newly collected data set of news articles
 with corresponding reddit engagement statistics is found in this repository.
 
+In this repository, there are two csv files that contain meta data about each reddit news post, including time, url, score, and the number of comments made on the post. Each ID in the csv files will correspond to 3 files in the "Articles and Data" rar file: 1 for the news story title, 1 for the news story body content, and 1 for the reddit post title. All are plain text files.
+
 Copyright (c) 2016, Benjamin D. Horne, Dorit Nevo, Jesse Freitas, Heng Ji & Sibel Adali
 
 All rights reserved.
